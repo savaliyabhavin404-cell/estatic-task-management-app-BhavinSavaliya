@@ -19,6 +19,15 @@ A simple, full-stack task management application built with **React** (Frontend)
 
 ## ScreenShots
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6dc0de69-d3d6-4bc1-a08c-1086d18f9c5c" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/92881e07-bee9-44a7-8f00-b95abc0b875e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8eb7a51a-39b2-45e5-bdb6-c1f9531ede5e" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ba610f4-3293-4857-8773-d27eebb72af0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8536aa9-6de3-4807-843d-e1ec6fbc6bd9" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/530a3bac-7391-4466-8347-685ea5de9c35" />
+
+
+
+
 
 ## Installation & Running
 
