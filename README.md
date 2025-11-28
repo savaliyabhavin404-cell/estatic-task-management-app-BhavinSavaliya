@@ -17,10 +17,8 @@ A simple, full-stack task management application built with **React** (Frontend)
 - **Backend**: Node.js, Express
 - **Storage**: In-memory array (Data resets on server restart)
 
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- npm (Node Package Manager)
+## ScreenShots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6dc0de69-d3d6-4bc1-a08c-1086d18f9c5c" />
 
 ## Installation & Running
 
